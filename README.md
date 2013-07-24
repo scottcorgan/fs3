@@ -1,4 +1,4 @@
 fs3
 ===
 
-Handle S3 objects like Node's fs module.
+Handle Amazon S3 objects like a file system in Node (i.e. fs module).
