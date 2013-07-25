@@ -2,6 +2,8 @@
 
 ** DO NOT USE! WIP...**
 
+[![Build Status](https://travis-ci.org/scottcorgan/fs3.png)](https://travis-ci.org/scottcorgan/fs3)
+
 Handle Amazon S3 objects like a file system in Node (i.e. fs module).
 
 ## install
