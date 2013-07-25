@@ -1,6 +1,6 @@
 # fs3
 
-** DO NOT USE! WIP...**
+**DO NOT USE, yet... WIP...**
 
 [![Build Status](https://travis-ci.org/scottcorgan/fs3.png)](https://travis-ci.org/scottcorgan/fs3)
 
